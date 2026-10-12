@@ -54,7 +54,7 @@ The Joint Laboratory is committed to building a **joint innovation system for cr
 
 | Role | Name | Affiliation / Appointment |  |
 |:---|:---:|:---:|:---:|
-| Co-Director (University) | **Prof. Jianhua Huang** | [School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen · Presidential Chair Professor](https://sai.cuhk.edu.cn/zh-hans/teacher/108) | [<img src="https://sai.cuhk.edu.cn/sites/default/files/styles/crop_freeform/public/2025-11/%E9%BB%84%E5%BB%BA%E5%8D%8E.jpg?itok=nqQtac2m" width="56" alt="Prof. Jianhua Huang" />](https://sai.cuhk.edu.cn/zh-hans/teacher/108) |
+| Co-Director (University) | **Prof. Jianhua Huang** | [School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen · Presidential Chair Professor](https://sai.cuhk.edu.cn/zh-hans/teacher/108) | [<img src="./_assets/profile/profile_黄建华.jpg" width="56" alt="Prof. Jianhua Huang" />](https://sai.cuhk.edu.cn/zh-hans/teacher/108) |
 | Co-Director (Industry) | **Xin Wang** | [Shenzhen Kuafu-Yundun Technology Co., Ltd. · Head of AI and Technology](https://github.com/ORG/REPO) | [<img src="./_assets/profile/profile_王鑫.jpeg" width="56" alt="Xin Wang" />](https://github.com/ORG/REPO) |
 | Management Committee | **Representatives from Both Parties** | Annual review of lab planning and project portfolio | [<img src="https://www.cuhk.edu.hk/english/images/aboutus/logo.jpg" width="56" alt="CUHK" />](https://github.com/CUHKSZ-CROSS-Lab) |
 | Research Fellow | **Zijin Cai** | [School of Artificial Intelligence, The Chinese University of Hong Kong, Shenzhen · PhD in Artificial Intelligence](https://github.com/CAI991108) | [<img src="./_assets/profile/profile_蔡子晋.png" width="56" alt="Zijin Cai" />](https://github.com/CAI991108) |
