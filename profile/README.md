@@ -57,9 +57,9 @@
 | 联合主任 | **黄建华 教授** | [香港中文大学（深圳）人工智能学院 · 校长讲座教授](https://sai.cuhk.edu.cn/zh-hans/teacher/108) | [<img src="./_assets/profile/profile_黄建华.jpg" width="56" alt="黄建华 教授" />](https://sai.cuhk.edu.cn/zh-hans/teacher/108) |
 | 联合主任 | **王鑫** | [深圳跨服云盾科技有限公司 · AI 技术负责人](https://cuhksz-cross-lab.github.io/wangxin/) | [<img src="./_assets/profile/profile_王鑫.jpeg" width="56" alt="王鑫" />](https://cuhksz-cross-lab.github.io/wangxin/) |
 | 管理委员会 | **甲乙双方代表** | 年度审议实验室规划与项目布局 | [<img src="https://www.cuhk.edu.hk/english/images/aboutus/logo.jpg" width="56" alt="CUHK" />](https://github.com/CUHKSZ-CROSS-Lab) |
-| 研究员 | **蔡子晋** | [香港中文大学（深圳）人工智能学院 · 博士研究生](https://github.com/CAI991108) | [<img src="./_assets/profile/profile_蔡子晋.png" width="56" alt="蔡子晋" />](https://github.com/CAI991108) |
-| 研究员 | **李唐朝 · RTπ** | [香港中文大学（深圳）人工智能学院 · 硕士研究生](https://github.com/RTPI-ltc) | [<img src="./_assets/profile/profile_rtpi.jpeg" width="56" alt="李唐朝" />](https://github.com/RTPI-ltc) |
-| 研究员 | **梁彦诗 · Doris** | [香港中文大学（深圳）人工智能学院](https://github.com/Doris619619) | [<img src="./_assets/profile/profile_lys1.jpeg" width="56" alt="梁彦诗" />](https://github.com/Doris619619) |
+| 研究员 | **蔡子晋** | [香港中文大学（深圳）人工智能学院 · 博士研究生](https://github.com/CAI991108) | [<img src="./_assets/profile/profile_蔡子晋.jpg" width="56" alt="蔡子晋" />](https://github.com/CAI991108) |
+| 研究员 | **李唐朝 · RTπ** | [香港中文大学（深圳）人工智能学院 · 硕士研究生](https://github.com/RTPI-ltc) | [<img src="./_assets/profile/profile_rtpi.jpg" width="56" alt="李唐朝" />](https://github.com/RTPI-ltc) |
+| 研究员 | **梁彦诗 · Doris** | [香港中文大学（深圳）人工智能学院](https://github.com/Doris619619) | [<img src="./_assets/profile/profile_lys1.jpg" width="56" alt="梁彦诗" />](https://github.com/Doris619619) |
 | 研究员 | **黄翔 · Olga** | [香港中文大学（深圳）人工智能学院](https://github.com/olga0107) | [<img src="./_assets/profile/profile_hx.jpeg" width="56" alt="黄翔" />](https://github.com/olga0107) |
 | 研究员 | **刘鲁曦 · Lucy** | [香港中文大学（深圳）人工智能学院](https://github.com/lllx-09) | [<img src="./_assets/profile/profile_llx.jpeg" width="56" alt="刘鲁曦" />](https://github.com/lllx-09) |
 
