@@ -1,0 +1,16 @@
+# CUHKSZ-CROSS-Lab/.github —— GitHub Org 主页仓库
+#
+# 只跟踪 profile/（Org 主页展示用）；仓库根下的其他目录一律忽略。
+# 本机这个目录同时用来放各个项目的本地工作副本（BSSIDGhost/、GeoGhost/ 等），
+# 那些目录都不属于本仓库，不能被误提交。
+
+# 先忽略根下所有条目
+/*
+!.gitignore
+!/profile/
+
+# 编辑器与系统垃圾（即使在 profile/ 里也不提交）
+.DS_Store
+Thumbs.db
+*.swp
+*~
